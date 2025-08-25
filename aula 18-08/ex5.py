@@ -7,6 +7,3 @@ def conta(lista,item):
     else:
         lista.pop(0)
         return 0 +conta(lista, item)
-
-
-
