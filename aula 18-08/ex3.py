@@ -4,4 +4,4 @@ def potencia(a,b):
     else:
         return a * potencia(a, b-1)
 
-print(potencia(4,5))
+print(potencia(2,998))
